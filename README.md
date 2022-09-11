@@ -32,4 +32,5 @@ I'm Daniil Ognevoy, web developer from <img src="https://cdn-icons-png.flaticon.
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/OgnevoyD)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/yovengowo)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/glhf.ognevoy/)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discordapp.com/users/162568738082652160)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/yovengo1)
