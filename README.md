@@ -26,12 +26,4 @@ I'm Daniil Ognevoy, web developer from <img src="https://cdn-icons-png.flaticon.
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=flat-square&logo=Postman)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=Docker)
 
-
-
-
-
-
-
-
-
-Stats
+[![Yovengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yovengo&show_icons=true&theme=dark&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
