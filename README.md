@@ -27,3 +27,9 @@ I'm Daniil Ognevoy, web developer from <img src="https://cdn-icons-png.flaticon.
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=Docker)
 
 [![Yovengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yovengo&show_icons=true&theme=github_dark&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
+
+### Socials
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/DOgnevoy)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/yovengowo)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/glhf.ognevoy/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/yovengo1)
